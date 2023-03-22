@@ -1,0 +1,9 @@
+.main-panel {
+  background-color: lightgrey;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.text-align-center {
+  text-align: center;
+}
